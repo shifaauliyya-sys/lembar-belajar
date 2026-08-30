@@ -1,20 +1,21 @@
 [
   {
-  "title": "Numbers 1-10",
-  "description": "6 halaman aktivitas trace, count, match, dan write angka 1-10, lengkap kunci jawaban untuk guru dan orang tua.",
-  "level": "kindergarten",
-  "cefr": "Pre-A1",
-  "topic": "vocabulary",
-  "audience": "both",
-  "pages": 8,
-  "hasAnswerKey": true,
-  "file": "pdfs/numbers-1-10-kindergarten.pdf"
-}
+    "title": "Numbers 1-10",
+    "description": "6 halaman aktivitas trace, count, match, dan write angka 1-10, lengkap kunci jawaban untuk guru dan orang tua.",
+    "level": "kindergarten",
+    "cefr": "Pre-A1",
+    "topic": "vocabulary",
+    "audience": "both",
+    "pages": 8,
+    "hasAnswerKey": true,
+    "file": "pdfs/numbers-1-10-kindergarten.pdf"
+  },
   {
     "title": "Simple Present Tense: Daily Routines",
     "description": "20 latihan isian tentang rutinitas sehari-hari, lengkap dengan kunci jawaban.",
-    "level": "beginner",
-    "topic": "tenses",
+    "level": "elementary",
+    "cefr": "A1",
+    "topic": "grammar",
     "audience": "mandiri",
     "pages": 4,
     "hasAnswerKey": true,
@@ -23,8 +24,9 @@
   {
     "title": "Vocabulary Bingo — Food & Cooking",
     "description": "Lembar permainan bingo kosakata, cocok untuk aktivitas kelas 30 menit.",
-    "level": "intermediate",
-    "topic": "vocabulary",
+    "level": "elementary",
+    "cefr": "A2",
+    "topic": "games",
     "audience": "guru",
     "pages": 6,
     "hasAnswerKey": false,
@@ -33,7 +35,8 @@
   {
     "title": "Conditional Sentences: Type 2 & 3",
     "description": "Latihan transformasi kalimat plus 5 soal esai singkat untuk pemahaman konteks.",
-    "level": "advanced",
+    "level": "senior-high",
+    "cefr": "B1",
     "topic": "grammar",
     "audience": "mandiri",
     "pages": 5,
@@ -43,7 +46,8 @@
   {
     "title": "Reading Short Stories: The Lost Cat",
     "description": "Cerita pendek 300 kata dengan 8 pertanyaan pemahaman bacaan.",
-    "level": "beginner",
+    "level": "junior-high",
+    "cefr": "A2",
     "topic": "reading",
     "audience": "mandiri",
     "pages": 3,
@@ -51,10 +55,11 @@
     "file": "pdfs/reading-the-lost-cat.pdf"
   },
   {
-    "title": "Lesson Pack: Job Interview Roleplay",
+    "title": "Lesson Plan: Job Interview Roleplay",
     "description": "Skrip roleplay, kartu peran, dan rubrik penilaian untuk kelas speaking.",
-    "level": "intermediate",
-    "topic": "listening",
+    "level": "senior-high",
+    "cefr": "B1",
+    "topic": "lesson-plans",
     "audience": "guru",
     "pages": 9,
     "hasAnswerKey": false,
@@ -63,7 +68,8 @@
   {
     "title": "Phrasal Verbs in Business Emails",
     "description": "30 phrasal verb umum dalam konteks email kerja, dengan latihan melengkapi kalimat.",
-    "level": "advanced",
+    "level": "general",
+    "cefr": "B2",
     "topic": "vocabulary",
     "audience": "mandiri",
     "pages": 4,
