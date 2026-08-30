@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Simple Present Tense: Daily Routines",
+    "description": "20 latihan isian tentang rutinitas sehari-hari, lengkap dengan kunci jawaban.",
+    "level": "beginner",
+    "topic": "tenses",
+    "audience": "mandiri",
+    "pages": 4,
+    "hasAnswerKey": true,
+    "file": "pdfs/simple-present-daily-routines.pdf"
+  },
+  {
+    "title": "Vocabulary Bingo — Food & Cooking",
+    "description": "Lembar permainan bingo kosakata, cocok untuk aktivitas kelas 30 menit.",
+    "level": "intermediate",
+    "topic": "vocabulary",
+    "audience": "guru",
+    "pages": 6,
+    "hasAnswerKey": false,
+    "file": "pdfs/vocabulary-bingo-food.pdf"
+  },
+  {
+    "title": "Conditional Sentences: Type 2 & 3",
+    "description": "Latihan transformasi kalimat plus 5 soal esai singkat untuk pemahaman konteks.",
+    "level": "advanced",
+    "topic": "grammar",
+    "audience": "mandiri",
+    "pages": 5,
+    "hasAnswerKey": true,
+    "file": "pdfs/conditional-sentences-2-3.pdf"
+  },
+  {
+    "title": "Reading Short Stories: The Lost Cat",
+    "description": "Cerita pendek 300 kata dengan 8 pertanyaan pemahaman bacaan.",
+    "level": "beginner",
+    "topic": "reading",
+    "audience": "mandiri",
+    "pages": 3,
+    "hasAnswerKey": true,
+    "file": "pdfs/reading-the-lost-cat.pdf"
+  },
+  {
+    "title": "Lesson Pack: Job Interview Roleplay",
+    "description": "Skrip roleplay, kartu peran, dan rubrik penilaian untuk kelas speaking.",
+    "level": "intermediate",
+    "topic": "listening",
+    "audience": "guru",
+    "pages": 9,
+    "hasAnswerKey": false,
+    "file": "pdfs/job-interview-roleplay.pdf"
+  },
+  {
+    "title": "Phrasal Verbs in Business Emails",
+    "description": "30 phrasal verb umum dalam konteks email kerja, dengan latihan melengkapi kalimat.",
+    "level": "advanced",
+    "topic": "vocabulary",
+    "audience": "mandiri",
+    "pages": 4,
+    "hasAnswerKey": true,
+    "file": "pdfs/phrasal-verbs-business-emails.pdf"
+  }
+]
