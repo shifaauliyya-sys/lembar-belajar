@@ -56,6 +56,66 @@
     "file": "materials/shopping-conversation-gen-z.pptx"
   },
   {
+    "title": "Modal Verbs Dasar",
+    "description": "Materi dasar modal verbs yang membahas can, could, may, might, must, should, will, dan would, lengkap dengan fungsi, pola kalimat, contoh, serta latihan singkat.",
+    "level": "junior-high",
+    "cefr": "A2",
+    "topic": "grammar",
+    "audience": "both",
+    "slides": 10,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Modal_Verbs_Dasar.pptx"
+  },
+  {
+    "title": "Auxiliary Verbs",
+    "description": "Materi grammar tentang auxiliary verbs be, do, dan have, termasuk fungsi dalam kalimat positif, negatif, tanya, continuous, passive voice, serta perfect tense.",
+    "level": "junior-high",
+    "cefr": "A2",
+    "topic": "grammar",
+    "audience": "both",
+    "slides": 10,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Auxiliary_Verbs.pptx"
+  },
+  {
+    "title": "Types of Pronoun",
+    "description": "Panduan tujuh jenis pronoun: personal, possessive, reflexive, demonstrative, interrogative, relative, dan indefinite, lengkap dengan tabel, contoh, serta latihan.",
+    "level": "junior-high",
+    "cefr": "A2",
+    "topic": "grammar",
+    "audience": "both",
+    "slides": 12,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Types_of_Pronoun.pptx"
+  },
+  {
+    "title": "Giving Opinion",
+    "description": "Materi speaking bergaya Gen Z untuk meminta dan menyampaikan pendapat, menyetujui atau tidak menyetujui dengan sopan, serta mempraktikkannya dalam percakapan.",
+    "level": "senior-high",
+    "cefr": "B1",
+    "topic": "speaking",
+    "audience": "both",
+    "slides": 11,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Giving_Opinion_GenZ.pptx"
+  },
+  {
+    "title": "Simple Present Tense",
+    "description": "Materi lengkap Simple Present Tense untuk verbal dan nominal sentence, mencakup fungsi, time signals, bentuk positif, negatif, tanya, rangkuman rumus, dan latihan.",
+    "level": "junior-high",
+    "cefr": "A1-A2",
+    "topic": "grammar",
+    "audience": "both",
+    "slides": 12,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Simple_Present_Tense.pptx"
+  },
+  {
     "title": "Alphabet Tracing & Coloring Fun",
     "description": "Latihan menebalkan huruf A-Z sambil mewarnai gambar sesuai huruf awal.",
     "level": "kindergarten",
@@ -123,14 +183,14 @@
   },
   {
     "title": "Phrasal Verbs in Business Emails",
-    "description": "30 phrasal verb umum dalam konteks email kerja, dengan latihan melengkapi kalimat.",
+    "description": "Worksheet Business English berisi 30 phrasal verbs dalam konteks email kerja, arti bahasa Indonesia, alternatif formal, latihan melengkapi kalimat, dan kunci jawaban.",
     "level": "general",
     "cefr": "B2",
     "topic": "vocabulary",
-    "audience": "mandiri",
-    "pages": 4,
+    "audience": "both",
+    "pages": 7,
     "hasAnswerKey": true,
-    "file": "pdfs/phrasal-verbs-business-emails.pdf"
+    "file": "pdfs/phrasal-verbs-in-business-emails.pdf"
   },
   {
     "title": "Classroom Warm-Up Games Pack",
