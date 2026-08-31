@@ -52,14 +52,16 @@ function render() {
 
 function buildCard(w) {
   const isGame = w.type === "game";
+  const format = (w.format || "PDF").toUpperCase();
+  const itemCount = w.slides ? `${w.slides} slide` : `${w.pages} halaman`;
 
   const metaHtml = isGame
     ? 'Game interaktif <span class="dot-sep"></span> Main langsung di browser'
-    : `${w.pages} halaman <span class="dot-sep"></span> PDF` + (w.hasAnswerKey ? ' <span class="dot-sep"></span> + kunci jawaban' : '');
+    : `${itemCount} <span class="dot-sep"></span> ${format}` + (w.hasAnswerKey ? ' <span class="dot-sep"></span> + kunci jawaban' : '');
 
   const actionHtml = isGame
     ? `<a class="stamp-btn" href="${w.file}" target="_blank" rel="noopener">▶ MAIN SEKARANG</a>`
-    : `<a class="stamp-btn" href="${w.file}" download>⬇ UNDUH PDF</a>`;
+    : `<a class="stamp-btn" href="${w.file}" download>⬇ UNDUH ${format}</a>`;
 
   return `
     <div class="card">
