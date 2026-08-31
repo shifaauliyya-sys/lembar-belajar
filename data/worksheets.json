@@ -194,11 +194,12 @@
   },
   {
     "title": "Classroom Warm-Up Games Pack",
-    "description": "10 ide warm-up game 5 menit buat buka kelas, lengkap petunjuk dan alat yang dibutuhkan.",
+    "description": "Paket 10 permainan warm-up berdurasi 5 menit, lengkap dengan fokus bahasa, level, energi kelas, persiapan, langkah bermain, contoh prompt, dan teacher tips.",
     "level": "general",
-    "topic": "teacher-resources",
+    "cefr": "A1-B1",
+    "topic": "games",
     "audience": "guru",
-    "pages": 12,
+    "pages": 7,
     "hasAnswerKey": false,
     "file": "pdfs/classroom-warmup-games-pack.pdf"
   }
