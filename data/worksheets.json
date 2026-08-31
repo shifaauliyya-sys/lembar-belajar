@@ -32,6 +32,30 @@
     "file": "pdfs/100-verb-ladders.pdf"
   },
   {
+    "title": "Question Words",
+    "description": "Panduan lengkap WH-questions yang membahas fungsi, struktur kalimat, contoh penggunaan, variasi how, serta latihan singkat.",
+    "level": "general",
+    "cefr": "A1-A2",
+    "topic": "grammar",
+    "audience": "both",
+    "slides": 14,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/question-words.pptx"
+  },
+  {
+    "title": "Shopping Conversation",
+    "description": "Materi speaking interaktif untuk dua pemain, lengkap dengan ekspresi customer dan shop assistant, dialog, latihan, serta roleplay.",
+    "level": "general",
+    "cefr": "A1-A2",
+    "topic": "speaking",
+    "audience": "both",
+    "slides": 10,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/shopping-conversation.pptx"
+  },
+  {
     "title": "Alphabet Tracing & Coloring Fun",
     "description": "Latihan menebalkan huruf A-Z sambil mewarnai gambar sesuai huruf awal.",
     "level": "kindergarten",
