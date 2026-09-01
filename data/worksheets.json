@@ -32,6 +32,28 @@
     "file": "pdfs/100-verb-ladders.pdf"
   },
   {
+    "title": "200 Irregular Verbs: V1, V2, V3 & Verb-ing",
+    "description": "Panduan dan latihan berisi 200 irregular verbs lengkap dengan V1, V2, V3, verb-ing, arti bahasa Indonesia, empat pola perubahan, bentuk alternatif, 30 soal latihan, serta kunci jawaban.",
+    "level": "general",
+    "cefr": "A1-B2",
+    "topic": "vocabulary",
+    "audience": "both",
+    "pages": 16,
+    "hasAnswerKey": true,
+    "file": "pdfs/200-irregular-verbs-v1-v2-v3-verb-ing.pdf"
+  },
+  {
+    "title": "300 Regular Verbs: V1, V2, V3 & Verb-ing",
+    "description": "Panduan dan latihan berisi 300 regular verbs level A1-B2 lengkap dengan V1, V2, V3, verb-ing, arti bahasa Indonesia, lima pola ejaan, tiga aturan pelafalan -ed, 40 soal latihan, serta kunci jawaban.",
+    "level": "general",
+    "cefr": "A1-B2",
+    "topic": "vocabulary",
+    "audience": "both",
+    "pages": 21,
+    "hasAnswerKey": true,
+    "file": "pdfs/300-regular-verbs-v1-v2-v3-verb-ing.pdf"
+  },
+  {
     "title": "Question Words",
     "description": "Panduan lengkap WH-questions yang membahas fungsi, struktur kalimat, contoh penggunaan, variasi how, serta latihan singkat.",
     "level": "general",
