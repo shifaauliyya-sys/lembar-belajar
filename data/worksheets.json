@@ -116,6 +116,18 @@
     "file": "materials/Simple_Present_Tense.pptx"
   },
   {
+    "title": "Degrees of Comparison",
+    "description": "Materi grammar tentang positive, comparative, dan superlative degree, lengkap dengan pola kalimat, aturan perubahan adjective, bentuk tidak beraturan, contoh, serta rangkuman perbandingan.",
+    "level": "junior-high",
+    "cefr": "A2",
+    "topic": "grammar",
+    "audience": "both",
+    "slides": 8,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Degrees_of_Comparison.pptx"
+  },
+  {
     "title": "Alphabet Tracing & Coloring Fun",
     "description": "Latihan menebalkan huruf A-Z sambil mewarnai gambar sesuai huruf awal.",
     "level": "kindergarten",
