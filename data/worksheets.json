@@ -33,6 +33,45 @@
     "file": "pdfs/16-English-Tenses-Made-Simple.pdf"
   },
   {
+    "title": "Talking About Experiences",
+    "description": "Materi speaking tentang menceritakan dan menanyakan pengalaman menggunakan Present Perfect, termasuk pola have you ever, already, yet, dan never, contoh percakapan, latihan tanya jawab, serta speaking practice.",
+    "level": "senior-high",
+    "cefr": "B1",
+    "topic": "speaking",
+    "audience": "both",
+    "type": "material",
+    "slides": 11,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Talking_About_Experiences.pptx"
+  },
+  {
+    "title": "Future Plans",
+    "description": "Materi grammar tentang berbagai cara menyatakan rencana masa depan menggunakan will, going to, Present Continuous, plan to, hope to, dan ekspresi terkait, lengkap dengan perbandingan, kesalahan umum, cheat sheet, serta latihan writing.",
+    "level": "senior-high",
+    "cefr": "B1",
+    "topic": "grammar",
+    "audience": "both",
+    "type": "material",
+    "slides": 9,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Future_Plans_Presentation.pptx"
+  },
+  {
+    "title": "Relative Clauses",
+    "description": "Materi grammar tentang relative pronouns dan adverbs, defining dan non-defining clauses, omission, reduced relative clauses, kesalahan umum, cheat sheet, serta latihan writing.",
+    "level": "senior-high",
+    "cefr": "B1-B2",
+    "topic": "grammar",
+    "audience": "both",
+    "type": "material",
+    "slides": 9,
+    "format": "PPTX",
+    "hasAnswerKey": false,
+    "file": "materials/Relative_Clauses_Presentation.pptx"
+  },
+  {
     "title": "100 Verb Ladders",
     "description": "Panduan kosakata printable berisi 100 kelompok verba dari everyday, intermediate, hingga formal dan precise, lengkap dengan arti serta nuansa penggunaan dalam bahasa Indonesia.",
     "level": "general",
